@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+  <a href="https://parthpathak2001.github.io"><img src="https://img.shields.io/badge/Portfolio-parthpathak2001.github.io-333333?logo=googlechrome&logoColor=white" alt="Portfolio"></a>&nbsp;
   <a href="https://www.linkedin.com/in/parth-s-pathak"><img src="https://img.shields.io/badge/LinkedIn-parth--s--pathak-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:pathakparth6353@gmail.com"><img src="https://img.shields.io/badge/Email-pathakparth6353%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>

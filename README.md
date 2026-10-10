@@ -4,6 +4,8 @@
 
 I build REST APIs, admin panels and business applications for e-commerce, healthcare and e-learning products, mostly with Laravel and CodeIgniter on MySQL/PostgreSQL.
 
+🌱 Always eager to learn new technologies and pick up new tools, frameworks and best practices.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parth--s--pathak-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-s-pathak)
 [![Email](https://img.shields.io/badge/Email-pathakparth6353%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pathakparth6353@gmail.com)
 

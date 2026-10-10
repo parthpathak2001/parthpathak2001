@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Parth&nbsp;Pathak&nbsp;👋</h1>
 
 <p align="center">
-  <b>Laravel / PHP Backend Developer</b><br>
+  <b>Laravel / PHP Developer</b><br>
   5&nbsp;years &nbsp;·&nbsp; Ahmedabad,&nbsp;India
 </p>
 
@@ -63,6 +63,6 @@
 <br>
 
 <p align="center">
-  💬 Open to Laravel / PHP backend roles&nbsp;and&nbsp;collaborations.<br>
-  Feel free to reach out!
+  💬 Open to Laravel / PHP roles&nbsp;and&nbsp;collaborations.<br>
+  Always eager to learn new technologies. Feel free to reach out!
 </p>

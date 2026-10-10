@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">&nbsp;
-  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" alt="Socket.IO">&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">&nbsp;
+  <img src="https://img.shields.io/badge/Socket.IO-333333?logo=socketdotio&logoColor=white" alt="Socket.IO">&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-333333?logo=nextdotjs&logoColor=white" alt="Next.js">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 

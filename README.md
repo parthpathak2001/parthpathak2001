@@ -49,7 +49,7 @@
 - **Property platform APIs:** Laravel Passport authentication with Salesforce and Azure integration
 - **Internal tools:** cost management and worklog systems with queued jobs, API-based user sync, attendance and productivity reports
 
-> 🔒 My professional work lives in private company repositories, so it isn't visible here. Personal Laravel projects are on the way.
+> 🔒 My professional work lives in private company repositories, so it isn't visible here.
 
 ## 🏢 Experience
 

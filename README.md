@@ -54,11 +54,6 @@ I build REST APIs, admin panels and business applications for e-commerce, health
 
 ---
 
-## 📊 GitHub Stats
-
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthpathak2001&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthpathak2001&layout=compact&hide_border=true)
-
----
+> 🔒 My professional work lives in private company repositories, so it isn't visible here. Personal Laravel projects are on the way.
 
 💬 Open to Laravel / PHP backend roles and collaborations. Feel free to reach out!
